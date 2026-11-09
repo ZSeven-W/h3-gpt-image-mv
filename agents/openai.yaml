@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Image × H3 叙事 MV"
+  short_description: "用 GPT Image 定关键帧、用 MiniMax H3 制作分镜并剪成完整音乐视频"
+  default_prompt: "用 $h3-gpt-image-mv，把我确认的角色参考和有发布权的配乐做成一支连续的像素风 MV。"

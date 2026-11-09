@@ -1,0 +1,42 @@
+{
+  "fps": 24,
+  "soundtrack": "music.m4a",
+  "shots": [
+    {
+      "id": "place",
+      "start": 0,
+      "frames": 120,
+      "source_start": 0,
+      "source": "shots/place.mp4",
+      "first_frame": "keyframes/place.png",
+      "generate_frames": 124,
+      "seed": 73100,
+      "motion": "Slow forward camera move toward an empty lantern bridge.",
+      "end_pose": "The bridge center is established. The frame stays empty."
+    },
+    {
+      "id": "approach",
+      "start": 120,
+      "frames": 120,
+      "source_start": 0,
+      "source": "shots/approach.mp4",
+      "first_frame": "keyframes/approach.png",
+      "generate_frames": 124,
+      "seed": 73101,
+      "motion": "Two figures take one step toward each other on the stone bridge.",
+      "end_pose": "Both stop with their shoes on the stone and their hands separated."
+    },
+    {
+      "id": "hands",
+      "start": 240,
+      "frames": 120,
+      "source_start": 0,
+      "source": "shots/hands.mp4",
+      "first_frame": "keyframes/hands.png",
+      "generate_frames": 124,
+      "seed": 73102,
+      "motion": "In close-up the two free hands reach and clasp once.",
+      "end_pose": "The hands stay joined through the last frame."
+    }
+  ]
+}
